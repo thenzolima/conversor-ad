@@ -1,6 +1,6 @@
 <img src="https://softex.br/wp-content/uploads/2024/09/EmbarcaTech_logo_Azul-1030x428.png" alt="embarcatech" width="240">
 
-# controle-de-servomotor
+# conversor-ad
 
 Feito por: Enzo Lima Alves dos Santos (tic370100120)
 
@@ -24,7 +24,7 @@ Feito por: Enzo Lima Alves dos Santos (tic370100120)
    code .
    ```
 
-4. Com o ambiente configurado, basta abrir o `diagram.json` e executar o simulador
+4. Com o ambiente configurado, basta executar clicando no `run`
 
 ---
-Vídeo mostrando o projeto: [https://drive.google.com/file/d/1msR8FwrfxQefntPwIoTe_jwHMo22Z68b/view?usp=sharing](https://drive.google.com/file/d/1msR8FwrfxQefntPwIoTe_jwHMo22Z68b/view?usp=sharing)
+Vídeo mostrando o projeto: [https://drive.google.com/file/d/1ICi_eXkGzTQidb7lnERq4d3K_4NsdQGz/view?usp=drivesdk](https://drive.google.com/file/d/1ICi_eXkGzTQidb7lnERq4d3K_4NsdQGz/view?usp=drivesdk)
